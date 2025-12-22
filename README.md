@@ -1,18 +1,33 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+# Set, Map e hashCode em Java
 
-The workspace contains two folders by default, where:
+Projeto desenvolvido em **Java** para praticar e entender o funcionamento das **Collections**, com foco em `Set`, `Map`, `equals()` e `hashCode()`.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🧠 Conceitos aplicados
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Collections Framework
+- Set (HashSet)
+- Map (HashMap)
+- equals()
+- hashCode()
+- Comparação de objetos
+- Evitando duplicidade em coleções
+- Boas práticas em Java
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🛠️ Tecnologias
+
+- Java
+- IDE: Eclipse / Spring Tools / VS Code
+
+---
+
+## ▶️ Como executar o projeto
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/miqueelino/Set_Map_hashcode.git
