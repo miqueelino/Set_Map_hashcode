@@ -31,3 +31,18 @@ Projeto desenvolvido em **Java** para praticar e entender o funcionamento das **
 1. Clone o repositório:
 ```bash
 git clone https://github.com/miqueelino/Set_Map_hashcode.git
+
+
+
+
+📚 Objetivo do projeto
+
+O objetivo deste projeto é:
+
+Entender como o Java trata objetos em coleções
+
+Aprender quando e por que sobrescrever equals() e hashCode()
+
+Evitar erros comuns ao trabalhar com Set e Map
+
+Fortalecer a base para aplicações Java e Spring Boot
