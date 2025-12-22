@@ -26,14 +26,6 @@ Projeto desenvolvido em **Java** para praticar e entender o funcionamento das **
 
 ---
 
-## ▶️ Como executar o projeto
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/miqueelino/Set_Map_hashcode.git
-
-
-
 
 📚 Objetivo do projeto
 
@@ -46,3 +38,13 @@ Aprender quando e por que sobrescrever equals() e hashCode()
 Evitar erros comuns ao trabalhar com Set e Map
 
 Fortalecer a base para aplicações Java e Spring Boot
+
+
+## ▶️ Como executar o projeto
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/miqueelino/Set_Map_hashcode.git
+
+
+
