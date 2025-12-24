@@ -58,12 +58,18 @@ git clone https://github.com/miqueelino/Set_Map_hashcode.git
 ````
 
 2️⃣ Acesse o diretório do projeto
+
+
 cd Set_Map_hashcode
+
+
 
 
 3️⃣ Execute o projeto
 
+
 Abra o projeto em sua IDE de preferência
+
 
 Execute a classe principal (main)
 
