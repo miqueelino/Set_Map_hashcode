@@ -14,8 +14,6 @@ O objetivo principal é compreender como o Java trata **objetos em coleções**,
 
 Este projeto explora conceitos fundamentais para o desenvolvimento de aplicações Java robustas, destacando a importância da correta implementação dos métodos `equals()` e `hashCode()` ao trabalhar com coleções como `HashSet` e `HashMap`.
 
-Esses conceitos são amplamente cobrados em **entrevistas técnicas** e utilizados em **aplicações corporativas**.
-
 ---
 
 ## 🧠 Conceitos aplicados
